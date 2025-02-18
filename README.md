@@ -1,4 +1,4 @@
-# Perbandingan Naive Bayes vs KNN dalam Mengklasifikasikan Data KIP KULIAH
+# Perbandingan Naive Bayes vs KNN dalam Mengklasifikasikan Data Penerima Beasiswa KIP KULIAH
 
 ## Informasi Dataset
 Dataset berisi 15 Kolom yaitu: 
