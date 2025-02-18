@@ -28,7 +28,7 @@ KNN memiliki akurasi yang jauh lebih tinggi dibandingkan Naive Bayes.
 
 ## Analisis Kinerja Berdasarkan Report
 
-### a) Naive Bayes
+### 1. Naive Bayes
 - **Kelas "TIDAK" (Tidak menerima beasiswa)**  
   - **Precision = 1.00** → Semua prediksi "TIDAK" benar.  
   - **Recall = 0.05** → Hanya **5% dari data "TIDAK" yang terdeteksi dengan benar** (sangat buruk).  
@@ -46,7 +46,7 @@ KNN memiliki akurasi yang jauh lebih tinggi dibandingkan Naive Bayes.
 
 ---
 
-### b) KNN
+### 2. KNN
 - **Kelas "TIDAK" (Tidak menerima beasiswa)**  
   - **Precision = 0.91** → 91% dari prediksi "TIDAK" benar.  
   - **Recall = 0.91** → 91% dari data "TIDAK" diklasifikasikan dengan benar.  
